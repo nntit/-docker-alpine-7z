@@ -7,3 +7,4 @@ RUN \
   rm -rf /var/cache/apk/* /tmp/*
 
 ENTRYPOINT 7z
+CMD ["7z"]
